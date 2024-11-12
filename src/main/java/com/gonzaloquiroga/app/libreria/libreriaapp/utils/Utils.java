@@ -1,6 +1,6 @@
 package com.gonzaloquiroga.app.libreria.libreriaapp.utils;
 
-import com.gonzaloquiroga.app.libreria.libreriaapp.persistence.entities.User;
+import com.gonzaloquiroga.app.libreria.libreriaapp.persistence.entity.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;

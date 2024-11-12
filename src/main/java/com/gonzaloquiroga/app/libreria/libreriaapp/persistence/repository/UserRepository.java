@@ -1,6 +1,6 @@
 package com.gonzaloquiroga.app.libreria.libreriaapp.persistence.repository;
 
-import com.gonzaloquiroga.app.libreria.libreriaapp.persistence.entities.User;
+import com.gonzaloquiroga.app.libreria.libreriaapp.persistence.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
